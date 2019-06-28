@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyetoCenfo</string>
+    <string name="action_settings">Settings</string>
+
+    !--Identifier of the facebook application  --!
+    <string name="facebook_app_id">1179568445482769</string>
+    <string name="fb_login_protocol_scheme">fb1179568445482769</string>
+
+
+</resources>
